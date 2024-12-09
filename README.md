@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=00Hwang's%20GIT&fontSize=90)
 
-<h3> My skills </h3>
+<h3> My skills </h3><hr>
 <div>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
@@ -20,11 +20,14 @@
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
 </div>
 <div>
-  <h3> Once i've used </h3>
+  <h3> Once i've used </h3><hr>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black">
+</div>
+<div>
+  <h3> My project </h3>
 </div>
 
 <br><br><br>
