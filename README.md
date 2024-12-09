@@ -28,4 +28,4 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahyun3746)](https://github.com/rahyun3746/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00Hwang)](https://github.com/00Hwang/github-readme-stats)
