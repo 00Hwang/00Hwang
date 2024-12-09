@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=00Hwang's%20GIT&fontSize=90)
 
-<h1> My skills </h1>
+<h3> My skills </h3>
 <div>
   <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
@@ -17,7 +17,10 @@
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
-  <h1> Once i've used </h1>
+  <br>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
+  
+  <h3> Once i've used </h3>
   <br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
@@ -25,3 +28,4 @@
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahyun3746)](https://github.com/rahyun3746/github-readme-stats)
