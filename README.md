@@ -18,18 +18,18 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
-</div>
+</div><br>
 <div>
   <h3> Once i've used </h3><hr>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black">
-</div>
+</div><br>
 <div>
-  <h3> My project </h3>
-</div>
+  <h3> My project </h3><hr>
+</div><br>
 
-<br><br><br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=00Hwang)](https://github.com/00Hwang/github-readme-stats)
