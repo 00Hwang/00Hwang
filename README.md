@@ -28,6 +28,7 @@
 </div><br>
 <div>
   <h3> My project </h3><hr>
+  <a href="https://github.com/Wjfjs/Capstone/tree/test/HTML">AI를 이용한 교통 관리 시스템(Node.js, HTML 담당)</a>
   <a href="https://github.com/00Hwang/smoking_management_system.git">흡연 관리 시스템</a>
 </div><br>
 
