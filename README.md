@@ -24,8 +24,9 @@
   <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black">
-</div><br>
+  <br>
   <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+</div><br>
 <div>
   <h3> My project </h3><hr>
   <a href="https://github.com/Wjfjs/Capstone/tree/test/HTML">AI를 이용한 교통 관리 시스템(Node.js, HTML 담당)</a><br>
