@@ -32,7 +32,7 @@
   <a href="https://github.com/Wjfjs/Capstone/tree/test/HTML">AI를 이용한 교통 관리 시스템(Node.js, HTML 담당)</a><br>
   <a href="https://github.com/00Hwang/smoking_management_system.git">흡연 관리 시스템(Arduino, Python)</a><br>
   <a href="https://github.com/00Hwang/Database_Practice/tree/main/DB-PHP%20%EC%82%B0%EC%B6%9C%EB%AC%BC">웹 쇼핑몰 실습(Oracle, PHP, HTML)</a><br>
-  <a href="https://github.com/00Hwang/C_Practice/tree/main/%EC%82%AC%EC%9B%90%EA%B4%80%EB%A6%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8">사원 관리 프로그램(C)</a>
+  <a href="https://github.com/00Hwang/C_Practice/tree/main/%EC%82%AC%EC%9B%90%EA%B4%80%EB%A6%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8">사원 관리 프로그램(C++)</a>
 </div><br>
 
 <br><br>
