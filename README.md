@@ -10,14 +10,13 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/NotePad++-90E59A?style=flat-square&logo=notepadplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white">
 </div><br>
 <div>
   <h3> Once i've used </h3><hr>
@@ -26,6 +25,7 @@
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black">
 </div><br>
+  <img src="https://img.shields.io/badge/Spring-Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
 <div>
   <h3> My project </h3><hr>
   <a href="https://github.com/Wjfjs/Capstone/tree/test/HTML">AI를 이용한 교통 관리 시스템(Node.js, HTML 담당)</a><br>
