@@ -30,7 +30,8 @@
 <div>
   <h3> My project </h3><hr>
   <a href="https://github.com/Wjfjs/Capstone/tree/test/HTML">AI를 이용한 교통 관리 시스템(Node.js, HTML 담당)</a><br>
-  <a href="https://github.com/00Hwang/smoking_management_system.git">흡연 관리 시스템</a>
+  <a href="https://github.com/00Hwang/smoking_management_system.git">흡연 관리 시스템(Arduino, Python)</a>
+  <a href="https://github.com/00Hwang/Database_Practice/tree/main/DB-PHP%20%EC%82%B0%EC%B6%9C%EB%AC%BC">웹 쇼핑몰 실습(Oracle, PHP, HTML)</a>
 </div><br>
 
 <br><br>
